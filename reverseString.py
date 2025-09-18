@@ -1,4 +1,4 @@
-#Reverse thr string
+#Reverse the string
 s='Hello'
 r=''
 for ch in s:
