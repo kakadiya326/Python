@@ -1,3 +1,4 @@
+# Find the nth prime number
 n=int(input("Enter a number:"))
 c=0
 i=2
