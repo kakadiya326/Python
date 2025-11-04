@@ -1,0 +1,8 @@
+f=open('tellSeek.txt','r+')
+print(f.tell())
+f.write("Go Language")
+print(f.tell())
+f.seek(20,0)
+print('--',f.readline().strip())
+print('-->',f.read(2))
+f.close()
