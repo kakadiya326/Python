@@ -1,0 +1,5 @@
+101 Chiranj MCA 50
+102 Chiranj BCA 30
+103 Chiranj Mtech 90
+104 Chiranj MCA 70
+105 Chiranj BCA 50
