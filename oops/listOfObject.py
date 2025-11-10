@@ -6,7 +6,7 @@ class std:
         s.mark=mark
     def __str__(s):
         return f"{s.sid}, {s.name}, {s.dept}, {s.mark}"
-    def __let__(s,o):
+    def __lt__(s,o):
         return s.mark<o.mark
     
 n=int(input())
